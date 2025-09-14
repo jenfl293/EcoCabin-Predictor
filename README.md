@@ -1,3 +1,5 @@
+![EcoCabin](/EcoCabin.png)
+
 # EcoCabin-Predictor
 
 Final project for the Building AI course
