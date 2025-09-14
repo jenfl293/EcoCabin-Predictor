@@ -43,3 +43,6 @@ Future Expansion:
 
 
 ## Acknowledgments
+
+* Inspiration from sustainable living initiatives and green architecture platforms.
+* ChatGPT for the AI-generated picture
